@@ -1,0 +1,22 @@
+body {
+    background-image: url("bck.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#start {
+    position: absolute;
+    top: 30%;
+}
+
+.disp {
+    font-weight: 600;
+    text-shadow: 8px 6px black;
+    color: darkorange!important;
+}
+
+video {
+    /* height: -webkit-fill-available; */
+    width: -webkit-fill-available;
+}
